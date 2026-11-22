@@ -39,6 +39,7 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 * 👔 *Perfil Profesional en LinkedIn:* [Mi perfil de LinkedIn](http://www.linkedin.com/in/rodrigo-solanilla-b6800b399)
 * 📬 *Correo Institucional UTP:* rodrigo.solanilla@utp.ac.pa
+- 📄 *Currículum Vitae:* [Ver mi CV en PDF](https://github.com/Rodrigo20x/UTP-REDES-ROUTER/blob/main/CV.pdf)
 
 ---
 
